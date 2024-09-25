@@ -1,4 +1,4 @@
-// Binary Search
+// Binary Search time complexity - O(log n)
 
 package com.DataStructures.Arrays;
 
