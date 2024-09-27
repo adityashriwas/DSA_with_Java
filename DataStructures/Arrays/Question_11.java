@@ -3,21 +3,22 @@
 
 package com.DataStructures.Arrays;
 
+import java.util.Arrays;
+
 public class Question_11 {
 
     public static boolean check(int[] arr){
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = 0; j < arr.length; j++) {
-                if (arr[i] == arr[j] && i != j){
-                    return true;
-                }
+        Arrays.sort(arr);
+        for (int i = 1; i < arr.length; i++) {
+            if (arr[i] == arr[i-1]){
+                return true;
             }
         }
         return false;
     }
 
     public static void main(String[] args) {
-        int[] arr = {1,1,3,4};
+        int[] arr = {1,1,4,3};
         System.out.println(check(arr));
     }
 }
