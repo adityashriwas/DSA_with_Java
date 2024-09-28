@@ -1,3 +1,5 @@
+// Number Matrix Pattern
+
 package com.DataStructures.Patterns;
 
 public class Pattern_15 {
@@ -12,7 +14,6 @@ public class Pattern_15 {
             System.out.println();
         }
     }
-
     public static void main(String[] args) {
         printPattern(4);
     }
