@@ -11,7 +11,6 @@ public class Pattern_14 {
             System.out.println();
         }
     }
-
     public static void main(String[] args) {
         printPattern(5);
     }
