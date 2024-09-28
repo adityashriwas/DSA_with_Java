@@ -10,7 +10,7 @@ public class Pattern_8 {
             for (int j = 1; j <= i ; j++) {
                 System.out.print("* ");
             }
-            for (int j = 1; j <= ((num*2)-(i*2))  ; j++) {
+            for (int j = 1; j <= ((num*2)-(i*2)); j++) {
                 System.out.print("  ");
             }
             for (int j = 1; j <= i ; j++) {
@@ -22,7 +22,7 @@ public class Pattern_8 {
             for (int j = 1; j <= i ; j++) {
                 System.out.print("* ");
             }
-            for (int j = 1; j <= ((num*2)-(i*2))  ; j++) {
+            for (int j = 1; j <= ((num*2)-(i*2)); j++) {
                 System.out.print("  ");
             }
             for (int j = 1; j <= i ; j++) {
