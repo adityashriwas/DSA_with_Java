@@ -1,6 +1,6 @@
 // Que 3: Subtract the Product and Sum of Digits of an Integer(Leetcode)
 
-package com.ASSIGNMENTS.Assignment2;
+package com.Basic_Java.Assignment2;
 
 import java.util.Scanner;
 

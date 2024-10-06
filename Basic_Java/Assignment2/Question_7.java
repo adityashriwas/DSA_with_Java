@@ -1,6 +1,6 @@
 // Que 7: Find if a number is palindrome or not
 
-package com.ASSIGNMENTS.Assignment2;
+package com.Basic_Java.Assignment2;
 
 import java.util.Scanner;
 

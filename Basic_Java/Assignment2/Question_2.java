@@ -1,6 +1,6 @@
 // Que 3: How many times a given digit is occurring in a number.
 
-package com.ASSIGNMENTS.Assignment2;
+package com.Basic_Java.Assignment2;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 // Que 8: Check if the number is Perfect Number or not.
 
-package com.ASSIGNMENTS.Assignment2;
+package com.Basic_Java.Assignment2;
 
 import java.util.Scanner;
 

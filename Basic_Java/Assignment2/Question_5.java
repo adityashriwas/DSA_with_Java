@@ -1,6 +1,6 @@
 // Que 5: Take integer inputs till the user enters 0 and print the largest number from all.
 
-package com.ASSIGNMENTS.Assignment2;
+package com.Basic_Java.Assignment2;
 
 import java.util.Scanner;
 

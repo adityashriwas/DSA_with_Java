@@ -1,6 +1,6 @@
 // Que 3: Take 2 numbers as input and print the largest number.
 
-package com.ASSIGNMENTS.Assignment1;
+package com.Basic_Java.Assignment1;
 
 import java.util.Scanner;
 

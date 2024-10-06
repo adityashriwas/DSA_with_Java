@@ -1,5 +1,5 @@
 // Que 8: To find out whether the given String is Palindrome or not.
-package com.ASSIGNMENTS.Assignment1;
+package com.Basic_Java.Assignment1;
 
 import java.util.Scanner;
 

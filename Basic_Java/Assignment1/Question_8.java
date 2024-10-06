@@ -1,6 +1,6 @@
 //Que 8: To find Armstrong Number between two given number.
 
-package com.ASSIGNMENTS.Assignment1;
+package com.Basic_Java.Assignment1;
 
 import java.util.*;
 

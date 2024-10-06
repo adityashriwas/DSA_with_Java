@@ -1,6 +1,6 @@
 // Decimal Number to Binary
 
-package com.ASSIGNMENTS.Assignment3;
+package com.Basic_Java.Assignment3;
 
 public class Question_2 {
     public static int DecimalToBinary(int Decimal){

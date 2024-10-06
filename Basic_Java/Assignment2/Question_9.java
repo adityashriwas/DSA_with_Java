@@ -1,5 +1,5 @@
-package com.ASSIGNMENTS.Assignment2;
-import java.util.*;
+package com.Basic_Java.Assignment2;
+
 public class Question_9 {
 
     public static int reverse(int x) {

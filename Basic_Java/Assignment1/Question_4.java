@@ -1,6 +1,6 @@
 // Que 4: Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
 
-package com.ASSIGNMENTS.Assignment1;
+package com.Basic_Java.Assignment1;
 
 import java.util.Scanner;
 
