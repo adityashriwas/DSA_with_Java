@@ -3,7 +3,7 @@ package com.DataStructures.Recursion;
 public class Question_11  {
 
     public static int tilingProblem(int n){
-//      basse case
+//      base case
         if (n == 0 || n ==1) {
             return 1;
         }
